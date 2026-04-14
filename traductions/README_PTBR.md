@@ -8,10 +8,8 @@
       |
       <a href="README_FR.md">🇫🇷 Français</a>
     </p>
-
     <h1 align="center">Olá 👋, eu sou Rhayonne Lopes</h1>
     <h3 align="center">Apaixonado por Tecnologia da Informação</h3>
-
     <p>
       Olá, tudo bem?
       <br />
@@ -25,13 +23,10 @@
       <br />
       Se desejar me convidar para trabalhar em um projeto, seja pessoal ou profissional, entre em contato também. Terei prazer em ajudar.
     </p>
-
   </div>
-
   <br />
   <div id="professional-summary">
     <h2 align="left">💼 Resumo Profissional</h2>
-
     <h4>Desenvolvedor Full-stack - Clariane, Paris (Out 2022 – Out 2025)</h4>
     <ul>
       <li>Responsável pelo design, desenvolvimento e implantação (CI/CD) de aplicações utilizando JavaScript/Node.js e diversos frameworks como NestJS, React, Vue.js, ExpressJS e JavaScript puro.</li>
@@ -48,7 +43,6 @@
       <li>Gerenciamento de controle de versão usando Docker e Azure Container Registry, estabelecendo o processo completo de CI/CD do desenvolvimento à entrega final ao cliente.</li>
       <li>Melhoria dos padrões de desenvolvimento e qualidade de código configurando SonarQube Community Server e implementando testes unitários abrangentes.</li>
     </ul>
-
     <h4>Gerente de Projetos de Integração - ERP - PcHelp Sistemas, Brasil (Abr 2014 – Jul 2017)</h4>
     <ul>
       <li>Gestão completa de projetos de integração de ERP, desde o levantamento de requisitos do cliente até a implementação da solução.</li>
@@ -57,13 +51,10 @@
       <li>Treinamento de usuários em diferentes módulos do ERP.</li>
       <li>Suporte e implementação de módulos contábeis e fiscais.</li>
     </ul>
-
   </div>
-
   <br />
   <hr />
   <br />
-
   <div id="Education">
     <h2 align="left">🎓 Educação & Certificações</h2>
     <ul>
@@ -102,7 +93,6 @@
   </div>
   <br />
   <hr />
-
   <div id="networks">
     <h3 align="left">🤝 Conecte-se comigo</h3>
     <table align="left">
@@ -115,7 +105,6 @@
             <br />
           </a>
         </td>
-
         <td align="center">
           <a href="https://medium.com/@rhayonne" target="blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="40" width="40" />
@@ -126,7 +115,6 @@
         </td>
       </tr>
     </table>
-
   </div>
   <br />
   <br />
@@ -134,7 +122,6 @@
   <br />
   <hr />
   <br />
-
   <div id="stacks-tools">
     <h2 align="center">🛠️ Tech Stack & Ferramentas</h2>
     <div id="frontend-mobile">
@@ -483,7 +470,6 @@
       </table>
     </div>
   </div>
-
   <br />
   <hr />
   <div id="stats">

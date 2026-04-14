@@ -23,13 +23,10 @@
       <br />
       Si vous souhaitez m'inviter à travailler sur un projet, qu'il soit personnel ou professionnel, n'hésitez pas à me contacter également. Je serais ravi de vous aider.
     </p>
-
   </div>
-
   <br />
   <div id="professional-summary">
     <h2 align="left">💼 Résumé Professionnel</h2>
-
     <h4>Développeur Full-stack - Clariane, Paris (Oct 2022 – Oct 2025)</h4>
     <ul>
       <li>
@@ -52,7 +49,6 @@
       <li>Gestion du contrôle de version avec Docker et Azure Container Registry, établissant le processus complet de CI/CD, du développement à la livraison finale au client.</li>
       <li>Amélioration des standards de développement et de la qualité du code en configurant SonarQube Community Server et en implémentant des tests unitaires complets.</li>
     </ul>
-
     <h4>Chef de Projet Intégration - ERP - PcHelp Sistemas, Brésil (Avr 2014 – Juil 2017)</h4>
     <ul>
       <li>Gestion complète de projets d'intégration d'ERP, de l'expression des besoins du client à la mise en œuvre de la solution.</li>
@@ -61,13 +57,10 @@
       <li>Formation des utilisateurs sur les différents modules de l'ERP.</li>
       <li>Support et mise en œuvre des modules comptables et fiscaux.</li>
     </ul>
-
   </div>
-
   <br />
   <hr />
   <br />
-
   <div id="Education">
     <h2 align="left">🎓 Éducation & Certifications</h2>
     <ul>
@@ -106,7 +99,6 @@
   </div>
   <br />
   <hr />
-
   <div id="networks">
     <h3 align="left">🤝 Contactez-moi</h3>
     <table align="left">
@@ -119,7 +111,6 @@
             <br />
           </a>
         </td>
-
         <td align="center">
           <a href="https://medium.com/@rhayonne" target="blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="40" width="40" />
@@ -130,7 +121,6 @@
         </td>
       </tr>
     </table>
-
   </div>
   <br />
   <br />
@@ -138,7 +128,6 @@
   <br />
   <hr />
   <br />
-
   <div id="stacks-tools">
     <h2 align="center">🛠️ Tech Stack & Outils</h2>
     <div id="frontend-mobile">
@@ -487,7 +476,6 @@
       </table>
     </div>
   </div>
-
   <br />
   <hr />
   <div id="stats">

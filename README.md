@@ -8,10 +8,8 @@
       |
       <a href="traductions/README_FR.md">🇫🇷 Français</a>
     </p>
-
     <h1 align="center">Hi 👋, I'm Rhayonne Lopes</h1>
     <h3 align="center">Passionate about Information Technology</h3>
-
     <p>
       Hello, how are you?
       <br />
@@ -25,13 +23,10 @@
       <br />
       If you’d like to invite me to work on a project, whether personal or professional, please get in touch too. I’d be happy to help.
     </p>
-
   </div>
-
   <br />
   <div id="professional-summary">
     <h2 align="left">💼 Professional Summary</h2>
-
     <h4>Full-stack Developer - Clariane, Paris (Oct 2022 – Oct 2025)</h4>
     <ul>
       <li>
@@ -49,7 +44,6 @@
       <li>Managed version control using Docker and Azure Container Registry, establishing the complete CI/CD process from development to final client delivery.</li>
       <li>Improved development standards and code quality by configuring SonarQube Community Server and implementing comprehensive unit testing.</li>
     </ul>
-
     <h4>Integration Project Manager - ERP - PcHelp Sistemas, Brazil (Apr 2014 – Jul 2017)</h4>
     <ul>
       <li>Full management of ERP integration projects, from client requirements expression to solution implementation.</li>
@@ -58,13 +52,10 @@
       <li>User training on different ERP modules.</li>
       <li>Support and implementation of accounting and fiscal modules.</li>
     </ul>
-
   </div>
-
   <br />
   <hr />
   <br />
-
   <div id="Education">
     <h2 align="left">🎓 Education & Certifications</h2>
     <ul>
@@ -103,7 +94,6 @@
   </div>
   <br />
   <hr />
-
   <div id="networks">
     <h3 align="left">🤝 Connect with me</h3>
     <table align="left">
@@ -116,7 +106,6 @@
             <br />
           </a>
         </td>
-
         <td align="center">
           <a href="https://medium.com/@rhayonne" target="blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="40" width="40" />
@@ -127,7 +116,6 @@
         </td>
       </tr>
     </table>
-
   </div>
   <br />
   <br />
@@ -135,7 +123,6 @@
   <br />
   <hr />
   <br />
-
   <div id="stacks-tools">
     <h2 align="center">🛠️ Tech Stack & Tools</h2>
     <div id="frontend-mobile">
@@ -484,7 +471,6 @@
       </table>
     </div>
   </div>
-
   <br />
   <hr />
   <div id="stats">
