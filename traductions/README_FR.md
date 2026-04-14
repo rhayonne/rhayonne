@@ -4,14 +4,12 @@
       🌎 Choisissez la langue
       <a href="../README.md">🇺🇸 English</a>
       |
-      <a href="README_PTBR.html">🇧🇷 Português</a>
+      <a href="README_PTBR.md">🇧🇷 Português</a>
       |
-      <a href="README_FR.html">🇫🇷 Français</a>
+      <a href="README_FR.md">🇫🇷 Français</a>
     </p>
-
     <h1 align="center">Salut 👋, je suis Rhayonne Lopes</h1>
     <h3 align="center">Passionné par les Technologies de l'Information</h3>
-
     <p>
       Bonjour, comment allez-vous ?
       <br />
@@ -25,6 +23,7 @@
       <br />
       Si vous souhaitez m'inviter à travailler sur un projet, qu'il soit personnel ou professionnel, n'hésitez pas à me contacter également. Je serais ravi de vous aider.
     </p>
+
   </div>
 
   <br />
@@ -62,6 +61,7 @@
       <li>Formation des utilisateurs sur les différents modules de l'ERP.</li>
       <li>Support et mise en œuvre des modules comptables et fiscaux.</li>
     </ul>
+
   </div>
 
   <br />
@@ -130,6 +130,7 @@
         </td>
       </tr>
     </table>
+
   </div>
   <br />
   <br />

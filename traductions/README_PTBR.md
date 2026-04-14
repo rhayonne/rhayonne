@@ -4,9 +4,9 @@
       🌎 Escolha o idioma:
       <a href="../README.md">🇺🇸 English</a>
       |
-      <a href="README_PTBR.html">🇧🇷 Português</a>
+      <a href="README_PTBR.md">🇧🇷 Português</a>
       |
-      <a href="README_FR.html">🇫🇷 Français</a>
+      <a href="README_FR.md">🇫🇷 Français</a>
     </p>
 
     <h1 align="center">Olá 👋, eu sou Rhayonne Lopes</h1>
