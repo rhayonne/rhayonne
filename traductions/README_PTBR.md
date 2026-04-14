@@ -1,62 +1,61 @@
 <div id="contein-all">
   <div id="topo">
     <p align="right">
-      🌎 Select the language:
-      <a href="README.MD">🇺🇸 English</a>
+      🌎 Escolha o idioma:
+      <a href="../README.md">🇺🇸 English</a>
       |
-      <a href="traductions/README_PTBR.md">🇧🇷 Português</a>
+      <a href="README_PTBR.html">🇧🇷 Português</a>
       |
-      <a href="traductions/README_FR.md">🇫🇷 Français</a>
+      <a href="README_FR.html">🇫🇷 Français</a>
     </p>
 
-    <h1 align="center">Hi 👋, I'm Rhayonne Lopes</h1>
-    <h3 align="center">Passionate about Information Technology</h3>
+    <h1 align="center">Olá 👋, eu sou Rhayonne Lopes</h1>
+    <h3 align="center">Apaixonado por Tecnologia da Informação</h3>
 
     <p>
-      Hello, how are you?
+      Olá, tudo bem?
       <br />
-      My name is Rhayonne and you’re viewing my GitHub profile, which includes an overview of what I use on a day-to-day basis. I’m passionate about IT and open source, and I strive to study and
-      understand how everything works. Because of this passion, I’ve gained extensive knowledge in IT. Firewalls, networks, Windows Server, Active Directory, as well as the architecture, design and
-      development of web software.
+      Meu nome é Rhayonne e você está visualizando meu perfil no GitHub, que inclui uma visão geral do que utilizo no meu dia a dia. Sou apaixonado por TI e código aberto, e busco sempre estudar e
+      entender como tudo funciona. Devido a essa paixão, adquiri amplo conhecimento em TI: Firewalls, redes, Windows Server, Active Directory, bem como arquitetura, design e desenvolvimento de
+      software web.
       <br />
-      I hold a Master’s degree in Information Systems Management and Architecture from CESI in Caen, Normandy (Bac +5). I am always looking to acquire new knowledge. Here on my GitHub profile, you can
-      see the personal projects I develop for learning purposes and also review concepts I have learnt in the past. If you’d like to chat, send me a private message on LinkedIn or an email; I’ll leave
-      the links below.
+      Possuo mestrado em Gestão e Arquitetura de Sistemas de Informação pelo CESI em Caen, Normandia (Bac +5). Estou sempre em busca de novos conhecimentos. Aqui no meu perfil do GitHub, você pode ver
+      os projetos pessoais que desenvolvo para fins de aprendizado e também revisar conceitos que aprendi no passado. Se quiser conversar, envie-me uma mensagem privada no LinkedIn ou um e-mail;
+      deixarei os links abaixo.
       <br />
-      If you’d like to invite me to work on a project, whether personal or professional, please get in touch too. I’d be happy to help.
+      Se desejar me convidar para trabalhar em um projeto, seja pessoal ou profissional, entre em contato também. Terei prazer em ajudar.
     </p>
 
   </div>
 
   <br />
   <div id="professional-summary">
-    <h2 align="left">💼 Professional Summary</h2>
+    <h2 align="left">💼 Resumo Profissional</h2>
 
-    <h4>Full-stack Developer - Clariane, Paris (Oct 2022 – Oct 2025)</h4>
+    <h4>Desenvolvedor Full-stack - Clariane, Paris (Out 2022 – Out 2025)</h4>
     <ul>
+      <li>Responsável pelo design, desenvolvimento e implantação (CI/CD) de aplicações utilizando JavaScript/Node.js e diversos frameworks como NestJS, React, Vue.js, ExpressJS e JavaScript puro.</li>
+      <li>Gerenciamento de estado e busca de dados usando ferramentas avançadas como React Query, React Context, Pinia e Zustand.</li>
+      <li>Liderei a arquitetura e desenvolvimento de um sistema de RH para gestão de contratos de estágio, incluindo documentação completa e implementação.</li>
       <li>
-        Responsible for the design, development, and deployment (CI/CD) of applications using JavaScript/Node.js and various frameworks such as NestJS, React, Vue.js, ExpressJS, and vanilla
-        JavaScript.
+        Mantive contato direto com usuários finais e diretores de negócios para levantamento de requisitos de novas funcionalidades, melhorias e alinhamentos técnicos por meio de reuniões e webinars.
       </li>
-      <li>Managed state and data fetching using advanced tools like React Query, React Context, Pinia, and Zustand.</li>
-      <li>Led the architecture and development of an HR system for internship agreement management, including full documentation and implementation.</li>
-      <li>Maintained direct contact with end-users and business directors to gather requirements for new features, improvements, and technical alignments through meetings and webinars.</li>
-      <li>Organized and planned the codebase for all applications under my responsibility, covering both new developments and preventive/corrective maintenance.</li>
-      <li>Utilized ClickUp, Jira, and Figma for ticket control, project management, and UX/UI alignment.</li>
-      <li>Worked with Palantir Foundry to build ETL pipelines and process large-scale data (Big Data).</li>
-      <li>Implemented database solutions using MongoDB, SQL, and PostgreSQL.</li>
-      <li>Expertise in the Microsoft Azure ecosystem, including Azure Portal, Azure DevOps, and managing user identities and access control via Azure IAM.</li>
-      <li>Managed version control using Docker and Azure Container Registry, establishing the complete CI/CD process from development to final client delivery.</li>
-      <li>Improved development standards and code quality by configuring SonarQube Community Server and implementing comprehensive unit testing.</li>
+      <li>Organizei e planejei a base de código de todas as aplicações sob minha responsabilidade, cobrindo tanto novos desenvolvimentos quanto manutenção preventiva/corretiva.</li>
+      <li>Utilização de ClickUp, Jira e Figma para controle de tickets, gestão de projetos e alinhamento de UX/UI.</li>
+      <li>Trabalhei com Palantir Foundry para construção de pipelines ETL e processamento de dados em larga escala (Big Data).</li>
+      <li>Implementação de soluções de banco de dados usando MongoDB, SQL e PostgreSQL.</li>
+      <li>Expertise no ecossistema Microsoft Azure, incluindo Azure Portal, Azure DevOps e gestão de identidades e controle de acesso via Azure IAM.</li>
+      <li>Gerenciamento de controle de versão usando Docker e Azure Container Registry, estabelecendo o processo completo de CI/CD do desenvolvimento à entrega final ao cliente.</li>
+      <li>Melhoria dos padrões de desenvolvimento e qualidade de código configurando SonarQube Community Server e implementando testes unitários abrangentes.</li>
     </ul>
 
-    <h4>Integration Project Manager - ERP - PcHelp Sistemas, Brazil (Apr 2014 – Jul 2017)</h4>
+    <h4>Gerente de Projetos de Integração - ERP - PcHelp Sistemas, Brasil (Abr 2014 – Jul 2017)</h4>
     <ul>
-      <li>Full management of ERP integration projects, from client requirements expression to solution implementation.</li>
-      <li>Direction of installation, configuration, and integration of an accounting and management ERP, including migration and optimization of SQL databases.</li>
-      <li>Design and development of custom SQL reports, and responsibility for analyzing and resolving anomalies, as well as testing and documentation.</li>
-      <li>User training on different ERP modules.</li>
-      <li>Support and implementation of accounting and fiscal modules.</li>
+      <li>Gestão completa de projetos de integração de ERP, desde o levantamento de requisitos do cliente até a implementação da solução.</li>
+      <li>Direção da instalação, configuração e integração de um ERP contábil e de gestão, incluindo migração e otimização de bancos de dados SQL.</li>
+      <li>Design e desenvolvimento de relatórios SQL personalizados, e responsabilidade pela análise e resolução de anomalias, bem como testes e documentação.</li>
+      <li>Treinamento de usuários em diferentes módulos do ERP.</li>
+      <li>Suporte e implementação de módulos contábeis e fiscais.</li>
     </ul>
 
   </div>
@@ -66,38 +65,38 @@
   <br />
 
   <div id="Education">
-    <h2 align="left">🎓 Education & Certifications</h2>
+    <h2 align="left">🎓 Educação & Certificações</h2>
     <ul>
       <li>
-        <strong>Manager in Architecture and Software Applications (Bac+5)</strong>
+        <strong>Manager en Architecture et Applications Logicielles (Bac+5)</strong>
         <br />
-        School: CESI Caen
+        Escola: CESI Caen
         <br />
-        Period: 2023 - 2025
+        Período: 2023 - 2025
       </li>
       <br />
       <li>
-        <strong>Application Developer Designer (Bac+3)</strong>
+        <strong>Concepteur Développeur d'Applications (Bac+3)</strong>
         <br />
-        School: CESI Caen
+        Escola: CESI Caen
         <br />
-        Period: 2022 - 2023
+        Período: 2022 - 2023
       </li>
       <br />
       <li>
-        <strong>Cybersecurity Analyst</strong>
+        <strong>Analista de Cybersecurity</strong>
         <br />
-        School: PopSchool Caen
+        Escola: PopSchool Caen
         <br />
-        Period: 2022
+        Período: 2022
       </li>
       <br />
       <li>
-        <strong>Systems Analysis and Development (Bac+2)</strong>
+        <strong>Análise e Desenvolvimento de Sistemas (Bac+2)</strong>
         <br />
-        School: Faculdade Cidade Verde, Brazil
+        Escola: Faculdade Cidade Verde, Brasil
         <br />
-        Period: 2014 - 2016
+        Período: 2014 - 2016
       </li>
     </ul>
   </div>
@@ -105,7 +104,7 @@
   <hr />
 
   <div id="networks">
-    <h3 align="left">🤝 Connect with me</h3>
+    <h3 align="left">🤝 Conecte-se comigo</h3>
     <table align="left">
       <tr>
         <td align="center">
@@ -137,9 +136,9 @@
   <br />
 
   <div id="stacks-tools">
-    <h2 align="center">🛠️ Tech Stack & Tools</h2>
+    <h2 align="center">🛠️ Tech Stack & Ferramentas</h2>
     <div id="frontend-mobile">
-      <h3 align="center">💻 Frontend & Mobile Development</h3>
+      <h3 align="center">💻 Desenvolvimento Frontend & Mobile</h3>
       <table align="center">
         <tr>
           <td align="center">
@@ -201,7 +200,7 @@
       </table>
     </div>
     <div id="uiFrameStyle">
-      <h3 align="center">🎨 UI Frameworks & Styling</h3>
+      <h3 align="center">🎨 UI Frameworks & Estilização</h3>
       <table align="center">
         <tr>
           <td align="center">
@@ -255,7 +254,7 @@
       </table>
     </div>
     <div id="backormlang">
-      <h3 align="center">⚙️ Backend, ORM & Languages</h3>
+      <h3 align="center">⚙️ Backend, ORM & Linguagens</h3>
       <table align="center">
         <tr>
           <td align="center">
@@ -333,7 +332,7 @@
       </table>
     </div>
     <div id="cloudDevOps">
-      <h3 align="center">☁️ Cloud, DevOps & Quality</h3>
+      <h3 align="center">☁️ Cloud, DevOps & Qualidade</h3>
       <table align="center">
         <tr>
           <td align="center">
@@ -406,7 +405,7 @@
       </table>
     </div>
     <div id="managemnt">
-      <h3 align="center">🚀 Management, Design & Data</h3>
+      <h3 align="center">🚀 Gestão, Design & Dados</h3>
       <table align="center">
         <tr>
           <td align="center">
@@ -488,14 +487,9 @@
   <br />
   <hr />
   <div id="stats">
-    <h3 align="center">📊 My GitHub Stats</h3>
+    <h3 align="center">📊 Minhas Estatísticas GitHub</h3>
     <p align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhayonne&theme=tokyonight" alt="rhayonne streak" />
-    </p>
-  </div>
-  <div id="Views">
-    <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=rhayonne&color=blue" alt="rhayonne views" />
     </p>
   </div>
 </div>
